@@ -11,7 +11,11 @@ herpetology.
 
 ### More Information
 
-#### C.V. 
+#### Education 
+
+#### Publications
+
+#### Other activities and interests
 
 ### Contact me
 
