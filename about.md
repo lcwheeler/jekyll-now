@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Lucas C. Wheeler; usually I go by Luke. I'm a PhD candidate in biochemistry 
+at the University of Oregon, studying how the molecular-biophysical properties of proteins
+shape their evolution. My scientfic interests are broad, ranging from biophysics to 
+herpetology. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+####C.V. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lwheeler@uoregon.edu](mailto:email@domain.com)
