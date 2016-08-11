@@ -15,7 +15,7 @@ herpetology.
 
 #### Publications
 
-#### Other activities and interests
+#### Outreach
 
 ### Contact me
 
