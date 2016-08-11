@@ -4,4 +4,4 @@ title: Photo Gallery
 permalink: /photogallery/
 ---
 
-## Nature Photography
+
