@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photo Gallery
-permalink: /photogallery/
+permalink: https://www.flickr.com/cameraroll
 ---
 
 
