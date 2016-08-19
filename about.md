@@ -27,8 +27,13 @@ proteins*.” Curr Op Struct Biol. (LCW and SAL contributed equally to the work)
 
 #### Outreach
 
-As an undergraduate I regularly engaged in outreach activities designed to inspire scientific
-interest in young children. A major problem I have encountered is the ability to both find 
+Growing up I had several opportunities to interact with professional scientists and learn about 
+the scientific process in an educational environment. Those experiences shaped my view of science 
+and inspired me to pursue a scientific career. I have engaged in outreach activities periodically 
+since the beginning of my undergraduate education. I have a strong interest in continuing my involvement 
+with outreach to the general public, because I believe that science is made stronger when the public 
+is engaged. Additionally, I have a strong interest in promoting policies of open science and broader 
+collaboration among scientists. One major problem I have encountered is the ability to both find 
 and share resources for the development of teaching tools. Currently, I am working with one 
 of my peers to develop an online tool for sharing teaching resources and ideas. 
 
