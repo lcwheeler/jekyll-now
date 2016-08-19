@@ -16,9 +16,9 @@ in wildlife photography.
 
 #### Education 
 
-2012-present    PhD Biochemistry University of Oregon
+2012-present***University of Oregon, PhD Biochemistry 
 
-2009-2012       Bsc Biochemistry Montana State University
+2009-2012***Montana State University, Bsc Biochemistry 
 
 #### Publications
 
