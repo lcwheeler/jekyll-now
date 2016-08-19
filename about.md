@@ -35,7 +35,7 @@ with outreach to the general public, because I believe that science is made stro
 is engaged. Additionally, I have a strong interest in promoting policies of open science and broader 
 collaboration among scientists. One major problem I have encountered is the ability to both find 
 and share resources for the development of teaching tools. Currently, I am working with one 
-of my peers to develop an online tool for sharing teaching resources and ideas. 
+of my peers to develop an online repository for sharing teaching resources and ideas. 
 
 ### Contact me
 
