@@ -22,8 +22,8 @@ in wildlife photography.
 
 #### Publications
 
-Wheeler LC*, An-Lim S*, Marqusee S, Harms MJ “The thermostability and specificity of ancient 
-proteins.” Curr Op Struct Biol. [*These authors contributed equally to the work])
+Wheeler LC, An-Lim S, Marqusee S, Harms MJ “The thermostability and specificity of ancient 
+proteins.*” Curr Op Struct Biol. (LCW and SAL contributed equally to the work)
 
 #### Outreach
 
