@@ -39,4 +39,4 @@ of my peers to develop an online repository for sharing teaching resources and i
 
 ### Contact me
 
-[lwheeler@uoregon.edu](mailto:email@domain.com)
+[lwheeler at uoregon.edu](mailto:email@domain.com)
