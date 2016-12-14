@@ -18,7 +18,7 @@ On this page are a few of my favorite photos that I have taken.
 #### Pronghorn antelope in Northern Wyoming
 ![an image alt text]({{ site.baseurl }}/images/pronghorn.jpg "Pronghorn Antelope")
 
-#### Mountain goats on the Beartooth Pass, MT
+#### Mountain goats on the Beartooth Pass, Montana
 ![an image alt text]({{ site.baseurl }}/images/mountain-goat.jpg "Mountain Goat")
 
 #### Panamint speckled rattlesnake in Death Valley National Park
