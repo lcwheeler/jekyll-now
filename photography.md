@@ -27,6 +27,10 @@ On this page are a few of my favorite photos that I have taken.
 #### Small falcon in Northern Wyoming
 ![an image alt text]({{ site.baseurl }}/images/falcon.jpg "Falcon")
 
+
+#### Gray wolf at the [McCleery Buffalo Wolf Foundation](http://mccleerybuffalowolffoundation.org/)
+![an image alt text]({{ site.baseurl }}/images/wolf.jpg "Gray wolf")
+
 If you'd like to see more of my work please visit my Flickr page using the link below!
 
 
