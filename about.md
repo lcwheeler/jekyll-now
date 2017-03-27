@@ -31,17 +31,21 @@ proteins.” Curr Op Struct Biol. (LCW and SAL contributed equally to the work) 
 
 
 
-### Outreach
+### Outreach activities
 
 Growing up I had several opportunities to interact with professional scientists and learn about 
 the scientific process in an educational environment. Those experiences shaped my view of science 
 and inspired me to pursue a scientific career. I have engaged in outreach activities periodically 
 since the beginning of my undergraduate education. I have a strong interest in continuing my involvement 
 with outreach to the general public, because I believe that science is made stronger when the public 
-is engaged. Additionally, I have a strong interest in promoting policies of open science and broader 
-collaboration among scientists. One major problem I have encountered is the ability to both find 
+is engaged.  One major problem I have encountered is the ability to both find 
 and share resources for the development of teaching tools. Currently, I am working with one 
 of my peers to develop an online repository for sharing teaching resources and ideas. 
+
+
+### Student-driven interdisciplinary science
+
+I have a strong interest in promoting policies of open science and broader collaboration among scientists. Particularly I believe that broadly interdisciplinary connections strengthen science as a whole. Sharing and discussion of ideas and advice amongst scientists from diverse backgrounds can be the basis for novel approaches. Toward this end I, along with some of my peers in the UO chemistry department, have created a student organization called the Quantitative Problem Solving and Research Communication Consortium. This organization holds biweekly meetings, each led by a single PhD student. The meetings give students from diverse fields such as biology, physics, and chemistry an opportunity to present their work and seek guidance from peers. So far our meetings have been a useful avenue for helping students to solve conceptually challenging research problems as well as to practice communication skills in a constructive environment. 
 
 ### Contact me
 
