@@ -35,7 +35,7 @@ After graduating from Montana State, I moved back to my home state and enrolled 
 Ubiquitous Cu 2+ and Zn 2+ Binding in the S100 protein Family." PLoS ONE 11(10): e0164740.
 doi:10.1371/journal.pone.0164740 [PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164740)
 
-**Wheeler LC**, An-Lim S, Marqusee S, Harms MJ “The thermostability and specificity of ancient 
+**Wheeler LC**, An-Lim S, Marqusee S, Harms MJ (2016) “The thermostability and specificity of ancient 
 proteins.” Curr Op Struct Biol. (LCW and SAL contributed equally to the work) [COSB](http://www.sciencedirect.com/science/article/pii/S0959440X16300501)
 
 
