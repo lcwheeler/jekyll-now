@@ -6,9 +6,9 @@ permalink: /cv/
 
 **EDUCATION**: 
 
-PhD   2012-present	University of Oregon, Chemistry and Biochemistry
+PhD&nbsp;&nbsp;2012-present	University of Oregon, Chemistry and Biochemistry
 
-B.S.  2012		Montana State University, Chemistry and Biochemistry
+B.S.  2012&nbsp;&nbsp;&nbsp;&nbsp;Montana State University, Chemistry and Biochemistry
 
 <br />
 
@@ -30,15 +30,15 @@ Evolutionary biochemistry, biophysics, evolutionary biology
 
 **AWARDS**: 
 
-2015&nbsp;&nbsp;Prize for best student presentation at Mechanisms of Protein evolution III
+2015&nbsp;&nbsp;&nbsp;&nbsp;Prize for best student presentation at Mechanisms of Protein evolution III
 <br />
-2015&nbsp;&nbsp;Student travel award to Mechanisms of Protein evolution III
+2015&nbsp;&nbsp;&nbsp;&nbsp;Student travel award to Mechanisms of Protein evolution III
 <br />
 2011-2012&nbsp;&nbsp;Montana INBRE student research award, Montana State University
 <br />
-2011&nbsp;&nbsp;Geer-Howald-Callis summer research award, Montana State University
+2011&nbsp;&nbsp;&nbsp;&nbsp;Geer-Howald-Callis summer research award, Montana State University
 <br />
-2011&nbsp;&nbsp;Swager summer research award, Montana State University
+2011&nbsp;&nbsp;&nbsp;&nbsp;Swager summer research award, Montana State University
 
 <br />
 
