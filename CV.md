@@ -20,11 +20,11 @@ Evolutionary biochemistry, biophysics, evolutionary biology
 
 **PROFESSIONAL EXPERIENCE**: 
 
-2014-present 	PhD candidate & Graduate Research Fellow, University of Oregon
+2014-present&nbsp;PhD candidate & Graduate Research Fellow, University of Oregon
 
-2012-2013 		PhD student & Graduate Teaching Fellow, University of Oregon
+2012-2013&nbsp;&nbsp;PhD student & Graduate Teaching Fellow, University of Oregon
 
-2009-2012 		Undergraduate Research Assistant, Montana State University,
+2009-2012&nbsp;&nbsp;Undergraduate Research Assistant, Montana State University,
 
 <br />
 
