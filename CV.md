@@ -30,11 +30,15 @@ Evolutionary biochemistry, biophysics, evolutionary biology
 
 **AWARDS**: 
 
-2015		Prize for best student presentation at Mechanisms of Protein evolution III
-2015		Student travel award to Mechanisms of Protein evolution III
-2011-2012	Montana INBRE student research award, Montana State University
-2011 		Geer-Howald-Callis summer research award, Montana State University
-2011 		Swager summer research award, Montana State University
+2015&nbsp;&nbsp;Prize for best student presentation at Mechanisms of Protein evolution III
+<br />
+2015&nbsp;&nbsp;Student travel award to Mechanisms of Protein evolution III
+<br />
+2011-2012&nbsp;&nbsp;Montana INBRE student research award, Montana State University
+<br />
+2011&nbsp;&nbsp;Geer-Howald-Callis summer research award, Montana State University
+<br />
+2011&nbsp;&nbsp;Swager summer research award, Montana State University
 
 <br />
 
