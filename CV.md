@@ -10,13 +10,13 @@ PhD   2012-present	University of Oregon, Chemistry and Biochemistry
 
 B.S.  2012		Montana State University, Chemistry and Biochemistry
 
-
+<br />
 
 **AREAS OF SPECIAL INTEREST**: 
 
 Evolutionary biochemistry, biophysics, evolutionary biology 
 
-
+<br />
 
 **PROFESSIONAL EXPERIENCE**: 
 
@@ -26,7 +26,7 @@ Evolutionary biochemistry, biophysics, evolutionary biology
 
 2009-2012 		Undergraduate Research Assistant, Montana State University,
 
-
+<br />
 
 **AWARDS**: 
 
@@ -36,7 +36,7 @@ Evolutionary biochemistry, biophysics, evolutionary biology
 2011 		Geer-Howald-Callis summer research award, Montana State University
 2011 		Swager summer research award, Montana State University
 
-
+<br />
 
 **PUBLICATIONS**: 
 
@@ -102,7 +102,7 @@ Ann Arbor, Michigan
 May 29-June 1, 2014
 Presented a poster entitled: *“Evolutionary biophysical studies of protein function in the S100 family”*
 
-
+<br />
 
 **OUTREACH AND OTHER VOLUNTEER ACTIVITIES**: 
 
