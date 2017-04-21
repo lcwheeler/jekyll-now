@@ -58,50 +58,50 @@ SMBE meeting (upcoming)
 JW Marriott
 Austin, TX
 July 2-6, 2017
-Presenting a poster entitled: “Experimental measurement of ultra high-order epistasis”
+Presenting a poster entitled: *“Experimental measurement of ultra high-order epistasis”*
 
 The Third International Symposium on Protein Folding and Dynamics
 National Center for Biosciences
 Bangalore, India
 November 8-11, 2016
-Presented a poster entitled: “Tracing the evolution of peptide binding specificity in the S100 protein  family using phage display and deep sequencing”
+Presented a poster entitled: *“Tracing the evolution of peptide binding specificity in the S100 protein  family using phage display and deep sequencing”*
 
 Gibbs Conference on Biological Thermodynamics
 Touch of Nature Arboretum
 Carbondale, Illinois
 September 24-26, 2016
-Presented a poster entitled: “Tracing the evolution of peptide binding specificity in the S100 protein  family using phage display and deep sequencing”
+Presented a poster entitled: *“Tracing the evolution of peptide binding specificity in the S100 protein  family using phage display and deep sequencing”*
 
 Mechanisms of Protein Evolution III: Origins
 University of Colorado Denver School of Medicine, Anschutz Medical Campus 
 Denver, Colorado
 November 8-10, 2015
-Delivered a talk entitled: “Tracing the evolutionary fluctuations of peptide binding specificity in the S100 protein family” (won prize for best student talk)
+Delivered a talk entitled: *“Tracing the evolutionary fluctuations of peptide binding specificity in the S100 protein family” (won prize for best student talk)*
 
 Gibbs Conference on Biological Thermodynamics
 Touch of Nature Arboretum
 Carbondale, Illinois
 October 3-6, 2015
-Presented a poster entitled: “Tracing the evolutionary fluctuations of peptide binding specificity in the S100 protein family”
+Presented a poster entitled: *“Tracing the evolutionary fluctuations of peptide binding specificity in the S100 protein family”*
 
 Protein Folding Consortium Workshop
 University of California, Berkeley
 Berkeley, California
 May 29-May 31, 2015
-Presented a poster entitled: “Evolutionary biophysical studies of peptide specificity in the S100 family”
-Delivered a talk entitled: “Probing the evolutionary history of peptide binding specificity in the S100 protein family”
+Presented a poster entitled: *“Evolutionary biophysical studies of peptide specificity in the S100 family”*
+Delivered a talk entitled: *“Probing the evolutionary history of peptide binding specificity in the S100 protein family”*
 
 Gibbs Conference on Biological Thermodynamics
 Touch of Nature Arboretum
 Carbondale, Illinois
 September 20-September 23, 2014
-Presented a poster entitled: “Evolutionary biophysical studies of peptide specificity in the S100s”
+Presented a poster entitled: *“Evolutionary biophysical studies of peptide specificity in the S100s”*
 
 Protein Folding Consortium Workshop
 University of Michigan
 Ann Arbor, Michigan
 May 29-June 1, 2014
-Presented a poster entitled: “Evolutionary biophysical studies of protein function in the S100 family”
+Presented a poster entitled: *“Evolutionary biophysical studies of protein function in the S100 family”*
 
 
 
