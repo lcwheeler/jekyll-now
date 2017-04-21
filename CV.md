@@ -6,9 +6,9 @@ permalink: /cv/
 
 **EDUCATION**: 
 
-PhD   2012-present&nbsp;  University of Oregon, Chemistry and Biochemistry
+PhD   2012-present  University of Oregon, Chemistry and Biochemistry
 
-B.S.  2012&nbsp;  Montana State University, Chemistry and Biochemistry
+B.S.  2012    Montana State University, Chemistry and Biochemistry
 
 <br />
 
@@ -20,25 +20,25 @@ Evolutionary biochemistry, biophysics, evolutionary biology
 
 **PROFESSIONAL EXPERIENCE**: 
 
-2014-present&nbsp;  PhD candidate & Graduate Research Fellow, University of Oregon
+2014-present    PhD candidate & Graduate Research Fellow, University of Oregon
 
-2012-2013&nbsp;&nbsp; PhD student & Graduate Teaching Fellow, University of Oregon
+2012-2013   PhD student & Graduate Teaching Fellow, University of Oregon
 
-2009-2012&nbsp;&nbsp; Undergraduate Research Assistant, Montana State University,
+2009-2012   Undergraduate Research Assistant, Montana State University,
 
 <br />
 
 **AWARDS**: 
 
-2015&nbsp;&nbsp;&nbsp;&nbsp; Prize for best student presentation at Mechanisms of Protein evolution III
+2015    Prize for best student presentation at Mechanisms of Protein evolution III
 <br />
-2015&nbsp;&nbsp;&nbsp;&nbsp;Student travel award to Mechanisms of Protein evolution III
+2015    Student travel award to Mechanisms of Protein evolution III
 <br />
-2011-2012&nbsp;&nbsp;Montana INBRE student research award, Montana State University
+2011-2012    Montana INBRE student research award, Montana State University
 <br />
-2011&nbsp;&nbsp;&nbsp;&nbsp;Geer-Howald-Callis summer research award, Montana State University
+2011    Geer-Howald-Callis summer research award, Montana State University
 <br />
-2011&nbsp;&nbsp;&nbsp;&nbsp;Swager summer research award, Montana State University
+2011    Swager summer research award, Montana State University
 
 <br />
 
@@ -109,6 +109,8 @@ Presented a poster entitled: *“Evolutionary biophysical studies of protein fun
 <br />
 
 **OUTREACH AND OTHER VOLUNTEER ACTIVITIES**: 
+
+Co-chair of the Quantitative Problem Solving and Research Communication Consortium, 2016-present
 
 ASUO SafeRide program Volunteer, 2016-present
 
