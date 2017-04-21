@@ -4,21 +4,21 @@ title: CV
 permalink: /cv/
 ---
 
-CURRICULUM VITAE 
+**EDUCATION**: 
 
-EDUCATION: 
+PhD   2012-present	University of Oregon, Chemistry and Biochemistry
 
-PhD 2012-present	University of Oregon, Chemistry and Biochemistry
-
-B.S. 2012		Montana State University, Chemistry and Biochemistry
+B.S.  2012		Montana State University, Chemistry and Biochemistry
 
 
-AREAS OF SPECIAL INTEREST: 
+
+**AREAS OF SPECIAL INTEREST**: 
 
 Evolutionary biochemistry, biophysics, evolutionary biology 
 
 
-PROFESSIONAL EXPERIENCE: 
+
+**PROFESSIONAL EXPERIENCE**: 
 
 2014-present 	PhD candidate & Graduate Research Fellow, University of Oregon
 
@@ -26,7 +26,9 @@ PROFESSIONAL EXPERIENCE:
 
 2009-2012 		Undergraduate Research Assistant, Montana State University,
 
-AWARDS: 
+
+
+**AWARDS**: 
 
 2015		Prize for best student presentation at Mechanisms of Protein evolution III
 2015		Student travel award to Mechanisms of Protein evolution III
@@ -35,20 +37,22 @@ AWARDS:
 2011 		Swager summer research award, Montana State University
 
 
-PUBLICATIONS: 
 
-Wheeler LC, Donor MT, Prell JS, Harms MJ (2016). Multiple Evolutionary 
+**PUBLICATIONS**: 
+
+**Wheeler** LC, Donor MT, Prell JS, Harms MJ (2016). Multiple Evolutionary 
 Origins of Ubiquitous Cu 2+ and Zn 2+ Binding in the S100 protein Family. 
 PLoS ONE 11(10): e0164740. doi:10.1371/journal.pone.0164740
  http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164740
 
-Wheeler LC, An-Lim S, Marqusee S, Harms MJ (2016). The thermostability 
+**Wheeler LC**, An-Lim S, Marqusee S, Harms MJ (2016). The thermostability 
 and specificity of ancient proteins. Curr Op Struct Biol. (LCW and SAL 
 contributed equally to the work) 
 http://www.sciencedirect.com/science/article/pii/S0959440X16300501
 
 
-CONFERENCE PRESENTATIONS: 
+
+**CONFERENCE PRESENTATIONS**: 
 
 SMBE meeting (upcoming)
 JW Marriott
@@ -100,7 +104,8 @@ May 29-June 1, 2014
 Presented a poster entitled: “Evolutionary biophysical studies of protein function in the S100 family”
 
 
-OUTREACH AND OTHER VOLUNTEER ACTIVITIES: 
+
+**OUTREACH AND OTHER VOLUNTEER ACTIVITIES**: 
 
 ASUO SafeRide program Volunteer, 2016-present
 
