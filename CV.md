@@ -6,9 +6,9 @@ permalink: /cv/
 
 **EDUCATION**: 
 
-PhD&nbsp;&nbsp;2012-present	University of Oregon, Chemistry and Biochemistry
+PhD   2012-present	University of Oregon, Chemistry and Biochemistry
 
-B.S.  2012&nbsp;&nbsp;&nbsp;&nbsp;Montana State University, Chemistry and Biochemistry
+B.S.  2012  Montana State University, Chemistry and Biochemistry
 
 <br />
 
