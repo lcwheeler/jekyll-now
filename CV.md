@@ -20,17 +20,17 @@ Evolutionary biochemistry, biophysics, evolutionary biology
 
 **PROFESSIONAL EXPERIENCE**: 
 
-2014-present&nbsp;PhD candidate & Graduate Research Fellow, University of Oregon
+2014-present&nbsp;  PhD candidate & Graduate Research Fellow, University of Oregon
 
-2012-2013&nbsp;&nbsp;PhD student & Graduate Teaching Fellow, University of Oregon
+2012-2013&nbsp;&nbsp; PhD student & Graduate Teaching Fellow, University of Oregon
 
-2009-2012&nbsp;&nbsp;Undergraduate Research Assistant, Montana State University,
+2009-2012&nbsp;&nbsp; Undergraduate Research Assistant, Montana State University,
 
 <br />
 
 **AWARDS**: 
 
-2015&nbsp;&nbsp;&nbsp;&nbsp;Prize for best student presentation at Mechanisms of Protein evolution III
+2015&nbsp;&nbsp;&nbsp;&nbsp; Prize for best student presentation at Mechanisms of Protein evolution III
 <br />
 2015&nbsp;&nbsp;&nbsp;&nbsp;Student travel award to Mechanisms of Protein evolution III
 <br />
