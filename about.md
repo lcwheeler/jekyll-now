@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Summary
 
-My name is Lucas Wheeler; but socially I go by Luke. I'm currently a PhD candidate in biochemistry at the
+I am currently a PhD candidate in biochemistry at the
 University of Oregon; studying how the physicochemical properties of proteins
 shape their evolution. My scientific interests are broad, ranging from biophysics to 
 evolutionary biology. I also have a life-long love of herpetology, which I have pursued
