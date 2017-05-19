@@ -44,7 +44,7 @@ Evolutionary biochemistry, biophysics, evolutionary biology
 
 **PUBLICATIONS**: 
 
-**Wheeler** LC, Donor MT, Prell JS, Harms MJ (2016). Multiple Evolutionary 
+**Wheeler LC**, Donor MT, Prell JS, Harms MJ (2016). Multiple Evolutionary 
 Origins of Ubiquitous Cu 2+ and Zn 2+ Binding in the S100 protein Family. 
 PLoS ONE 11(10): e0164740. doi:10.1371/journal.pone.0164740 [PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164740)
 
