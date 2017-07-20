@@ -6,11 +6,10 @@ permalink: /research/
 
 
 
-## A quest to understand the basic principles of evolution
+## Probing the basic principles of molecular evolution
 
 Over the course of my undergraduate and graduate careers my interests have shifted progressivley more toward evolutionary biology. Evolution is the driving force that underlies all of the biological complexity and diversity on Earth. That a random process---governed solely by the physical rules of the universe---can give rise to amazingly complex, self-organizing, self-replicating systems is both beautiful and amazing. How is such a process possible? How are simple physical and chemical principles translated into the amazing complexity that we see in living systems? How does the architecture of individual living things constrain evolutionary outcomes? How do interactions within populations affect shape evolutionary processes? These are the types of questions that drive my passion for scientific research! 
 
-![an image alt text]({{ site.baseurl }}/images/tree.jpg "Tree")
 
 ### Working at the interface of biochemistry and evolutionary biology
 
