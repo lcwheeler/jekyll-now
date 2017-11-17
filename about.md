@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Summary
 
-I just defending my PhD dissertation in biochemistry at the
+I just defended my PhD dissertation in biochemistry at the
 University of Oregon; studying how the physicochemical properties of proteins
 shape their evolution. My scientific interests are broad, ranging from biophysics to 
 evolutionary biology. I also have a life-long love of herpetology, which I have pursued
