@@ -6,9 +6,9 @@ permalink: /cv/
 
 **EDUCATION**: 
 
-PhD   2012-present  University of Oregon, Chemistry and Biochemistry
+PhD   2017  University of Oregon, Chemistry and Biochemistry
 
-B.S.  2012    Montana State University, Chemistry and Biochemistry
+B.S.  2012  Montana State University, Chemistry and Biochemistry
 
 <br />
 
@@ -20,7 +20,7 @@ Evolutionary biochemistry, biophysics, evolutionary biology
 
 **PROFESSIONAL EXPERIENCE**: 
 
-2014-present    PhD candidate & Graduate Research Fellow, University of Oregon
+2014-2017    PhD candidate & Graduate Research Fellow, University of Oregon
 
 2012-2013   PhD student & Graduate Teaching Fellow, University of Oregon
 
@@ -43,6 +43,8 @@ Evolutionary biochemistry, biophysics, evolutionary biology
 <br />
 
 **PUBLICATIONS**: 
+
+**Wheeler LC**, Harms MJ (2017). S100A5 binds Ca2+ and Cu2+ independently. BMC Biophysics (in press) 
 
 **Wheeler LC**, Donor MT, Prell JS, Harms MJ (2016). Multiple Evolutionary 
 Origins of Ubiquitous Cu 2+ and Zn 2+ Binding in the S100 protein Family. 
