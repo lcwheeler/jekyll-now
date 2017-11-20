@@ -46,6 +46,8 @@ Evolutionary biochemistry, biophysics, evolutionary biology
 
 **Wheeler LC**, Harms MJ (2017). S100A5 binds Ca2+ and Cu2+ independently. BMC Biophysics (in press) 
 
+**Wheeler LC**, Anderson JA, Morrison AJ, Wong CE, Harms MJ (2017). Conservation of specificity in two low-specificity proteins. bioRxiv 207324; doi: https://doi.org/10.1101/207324 [BioRxiv](https://www.biorxiv.org/content/early/2017/10/25/207324)
+
 **Wheeler LC**, Donor MT, Prell JS, Harms MJ (2016). Multiple Evolutionary 
 Origins of Ubiquitous Cu 2+ and Zn 2+ Binding in the S100 protein Family. 
 PLoS ONE 11(10): e0164740. doi:10.1371/journal.pone.0164740 [PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164740)
@@ -58,9 +60,8 @@ contributed equally to the work)
 <br />
 
 **CONFERENCE PRESENTATIONS**: 
-
-Upcoming: Society for Molecular Biology and Evolution (upcoming). Austin Texas. 
-Poster: “Experimental measurement of ultra high-order epistasis”
+2017: Society for Molecular Biology and Evolution (upcoming). Austin Texas. 
+Poster: “Phage display and deep sequencing to study the evolution of binding specificity”
 
 2016: Third International Symposium on Protein Folding and Dynamics. Bangalore, India.  Poster: “Tracing the evolution of peptide binding specificity in the S100 protein  family using phage display and deep sequencing”
 Submitted talk:  “Tracing the evolution of peptide binding specificity in the S100 protein  family using phage display and deep sequencing”
@@ -88,9 +89,9 @@ Poster: “Evolutionary biophysical studies of protein function in the S100 fami
 
 **OUTREACH AND OTHER VOLUNTEER ACTIVITIES**: 
 
-Co-chair of the Quantitative Problem Solving and Research Communication Consortium, 2016-present
+Co-chair of the Quantitative Problem Solving and Research Communication Consortium, 2016-2017
 
-ASUO SafeRide program Volunteer, 2016-present
+ASUO SafeRide program Volunteer, 2016-2017
 
 Mad Duck Science Fridays, University of Oregon, May 15, 2015
 
@@ -99,5 +100,7 @@ Presented at the University of Oregon GSA's inaugural GradTalk series. The Barn 
 Mad Duck Science Fridays, University of Oregon, November 22, 2013
 
 Mad Duck Science Fridays, University of Oregon, October 4, 2013
+
+Student Senator, Associated Students of Montana State University, 2010-2011
 
 Undergraduate Chemistry Society officer, Montana State University. Helped to organize many outreach activities in elementary, middle, and high school classrooms. 2009-2012
