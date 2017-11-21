@@ -95,6 +95,8 @@ ASUO SafeRide program Volunteer, 2016-2017
 
 Mad Duck Science Fridays, University of Oregon, May 15, 2015
 
+Mentor, UO Summer Program for Undergraduate Research, 2014-2015
+
 Presented at the University of Oregon GSA's inaugural GradTalk series. The Barn Light Lounge, Eugene, OR, November 12, 2014
 
 Mad Duck Science Fridays, University of Oregon, November 22, 2013
