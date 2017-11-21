@@ -24,17 +24,20 @@ After graduating from Montana State, I moved back to my home state and enrolled 
 ## More Information
 
 
-### Outreach activities
+### Outreach and mentorship activities
 
 Growing up I had several opportunities to interact with professional scientists and learn about 
 the scientific process in an educational environment. Those experiences shaped my view of science 
 and inspired me to pursue a scientific career. I have engaged in outreach activities periodically 
 since the beginning of my undergraduate education. I have a strong interest in continuing my involvement 
 with outreach to the general public, because I believe that science is made stronger when the public 
-is engaged.  One major problem I have encountered is the ability to both find 
-and share resources for the development of teaching tools. Currently, I am working with one 
-of my peers to develop an online repository for sharing teaching resources and ideas. 
+is engaged. 
 
+I have been fortunate enough to have great mentors throughout all stages of my education. They have helped
+me to develop important skills and given me opportunities for learning that I otherwise would not have had. 
+I have done by best to pass along my experiences by mentoring others, including several summer undergraduate 
+students. These experiences have been a valuable learning opportunity for me as well and helped me to further 
+appreciate the importance of good mentorship. 
 
 ### Student-driven interdisciplinary science
 
