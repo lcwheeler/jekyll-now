@@ -44,7 +44,7 @@ Evolutionary biochemistry, biophysics, evolutionary biology
 
 **PUBLICATIONS**: 
 
-**Wheeler LC**, Harms MJ (2017). S100A5 binds Ca2+ and Cu2+ independently. BMC Biophysics (in press) 
+**Wheeler LC**, Harms MJ (2017). S100A5 binds Ca2+ and Cu2+ independently. BMC Biophysics doi: https://doi.org/10.1186/s13628-017-0040-y [BMC Biophysics](https://bmcbiophys.biomedcentral.com/articles/10.1186/s13628-017-0040-y)
 
 **Wheeler LC**, Anderson JA, Morrison AJ, Wong CE, Harms MJ (2017). Conservation of specificity in two low-specificity proteins. bioRxiv 207324; doi: https://doi.org/10.1101/207324 [BioRxiv](https://www.biorxiv.org/content/early/2017/10/25/207324)
 
