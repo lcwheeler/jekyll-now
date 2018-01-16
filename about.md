@@ -7,7 +7,7 @@ permalink: /about/
 
 I just defended my PhD dissertation in biochemistry at the
 University of Oregon; studying how the physicochemical properties of proteins
-shape their evolution. My scientific interests are broad, ranging from biophysics to 
+shape their evolution. I am now starting a postdoc position in the lab of Dr. Stacey Smith at University of Colorado Boulder. My scientific interests are broad, ranging from biophysics to 
 evolutionary biology. I also have a life-long love of herpetology, which I have pursued
 as an amateur. Oustide of my scientific pursuits I am an avid hiker and outdoor aficionado. 
 I enjoy camping, bicycling, unicycling, white-water rafting, and have a particular interest
