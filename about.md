@@ -45,4 +45,4 @@ I have a strong interest in promoting policies of open science and broader colla
 
 ### Contact me
 
-[lwheeler at uoregon.edu](mailto:email@domain.com)
+[lucas.wheeler@colorado.edu](mailto:email@domain.com)
