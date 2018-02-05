@@ -42,7 +42,7 @@ Evolutionary biochemistry, biophysics, evolutionary biology
 
 <br />
 
-**PUBLICATIONS**: (My publications can also be found at my [Google Scholar page](https://scholar.google.com/citations?user=IEcP51wAAAAJ&hl=en)
+**PUBLICATIONS**: (My publications can also be found at my [Google Scholar page](https://scholar.google.com/citations?user=IEcP51wAAAAJ&hl=en))
 
 **Wheeler LC**, Anderson JA, Morrison AJ, Wong CE, Harms MJ (2017). Conservation of specificity in two low-specificity proteins. [Biochemistry](http://pubs.acs.org/doi/10.1021/acs.biochem.7b01086); doi: 10.1021/acs.biochem.7b01086 (a version of this article is also available at [BioRxiv](https://www.biorxiv.org/content/early/2017/10/25/207324))
 
