@@ -24,7 +24,7 @@ On this page are a few of my favorite photos that I have taken.
 #### Panamint speckled rattlesnake in Death Valley National Park
 ![an image alt text]({{ site.baseurl }}/images/panamint-speckled.jpg "Panamint Speckled Rattlesnake")
 
-#### Small falcon in Northern Wyoming
+#### Prairie falcon in Northern Wyoming
 ![an image alt text]({{ site.baseurl }}/images/falcon.jpg "Falcon")
 
 
