@@ -59,7 +59,7 @@ and specificity of ancient proteins. [COSB](http://www.sciencedirect.com/science
 
 **CONFERENCE PRESENTATIONS**: 
 
-2017: Society for Molecular Biology and Evolution (upcoming). Austin Texas. 
+2017: Society for Molecular Biology and Evolution. Austin Texas. 
 Poster: “Phage display and deep sequencing to study the evolution of binding specificity”
 
 2016: Third International Symposium on Protein Folding and Dynamics. Bangalore, India.  Poster: “Tracing the evolution of peptide binding specificity in the S100 protein  family using phage display and deep sequencing”
