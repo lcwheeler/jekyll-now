@@ -5,8 +5,8 @@ permalink: /about/
 ---
 ### Summary
 
-In November, 2017 I defended my PhD dissertation in biochemistry at the
-University of Oregon; studying the evolutionary biochemistry of the S100 protein family. In January, 2018 I started a postdoc position in the lab of Dr. Stacey Smith at University of Colorado Boulder. My work here is focused on understanding the molecular mechanisms underlying the evolution of flower color. My scientific interests are broad, ranging from evolutionary biology to biophysics. I also have a life-long love of herpetology, which I have pursued
+I received my PhD dissertation in biochemistry at the
+University of Oregon in 2017; studying the evolutionary biochemistry of the S100 protein family. In January, 2018 I started a postdoc position in the lab of Dr. Stacey Smith at University of Colorado Boulder. My work here is focused on understanding the molecular mechanisms underlying the evolution of flower color. My scientific interests are broad, ranging from evolutionary biology to biophysics. I also have a life-long love of herpetology, which I have pursued
 as an amateur. Oustide of my scientific pursuits I am an avid hiker and outdoor enthusiast. 
 I enjoy camping, bicycling, unicycling, kayaking, photography, and many other activities. 
 
