@@ -55,6 +55,7 @@ Origins of Ubiquitous Cu 2+ and Zn 2+ Binding in the S100 protein Family.
 **Wheeler LC**, An-Lim S, Marqusee S, Harms MJ (2016). The thermostability 
 and specificity of ancient proteins. [COSB](http://www.sciencedirect.com/science/article/pii/S0959440X16300501)
  (LCW and SAL contributed equally to the work) 
+ 
 <br />
 
 **CONFERENCE PRESENTATIONS**: 
