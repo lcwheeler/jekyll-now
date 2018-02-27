@@ -37,7 +37,7 @@ I have done by best to pass along my experiences by mentoring others, including 
 students. These experiences have been a valuable learning opportunity for me as well and helped me to further 
 appreciate the importance of good mentorship. 
 
-### Student-driven interdisciplinary science
+### Interdisciplinary science
 
 I have a strong interest in promoting policies of open science and broader collaboration among scientists. Particularly I believe that broadly interdisciplinary connections strengthen science as a whole. Sharing and discussion of ideas and advice amongst scientists from diverse backgrounds can be the basis for novel approaches. Toward this end I, along with some of my peers in the UO chemistry department, created two clubs. 1) The highly entertaining and often educational [Beer and Theory Society](https://github.com/BeerTheorySociety), which focuses on learning theory from diverse fields whilst drinking beer; and 2) a student organization called the Quantitative Problem Solving and Research Communication Consortium. This organization held student-led meetings giving students from diverse fields such as biology, physics, and chemistry an opportunity to present their work and seek guidance from peers. These meetings were a useful venue for helping students to solve conceptually challenging research problems as well as to practice communication skills in a constructive environment. I was pleased to find a similar organization active upon my arrival at CU Boulder, the Quantitative Think Tank, which I have committed to participate in during my postdoc. 
 
