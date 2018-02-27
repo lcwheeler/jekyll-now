@@ -1,12 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+
+![an image alt text]({{ site.baseurl }}/images/me-with-bird.jpg "Gray Jay")
+
 ### Summary
 
 I received my PhD in biochemistry at the
-University of Oregon in 2017; studying the evolutionary biochemistry of the S100 protein family. In January, 2018 I started a postdoc position in the lab of Dr. Stacey Smith at University of Colorado Boulder. My work here is focused on understanding the molecular mechanisms underlying the evolution of flower color. My scientific interests are broad, ranging from evolutionary biology to biophysics. I also have a life-long love of herpetology, which I have pursued
+University of Oregon in 2017; studying the evolutionary biochemistry of the S100 protein family. In January, 2018 I started a postdoc position with Dr. Stacey Smith at University of Colorado Boulder. My current work is focused on understanding the molecular mechanisms underlying the evolution of flower color. My scientific interests are broad, ranging from evolutionary biology to biophysics. I also have a life-long love of herpetology, which I have pursued
 as an amateur. Oustide of my scientific pursuits I am an avid hiker and outdoor enthusiast. 
 I enjoy camping, bicycling, unicycling, kayaking, photography, and many other activities. 
 
@@ -38,7 +41,7 @@ appreciate the importance of good mentorship.
 
 ### Student-driven interdisciplinary science
 
-I have a strong interest in promoting policies of open science and broader collaboration among scientists. Particularly I believe that broadly interdisciplinary connections strengthen science as a whole. Sharing and discussion of ideas and advice amongst scientists from diverse backgrounds can be the basis for novel approaches. Toward this end I, along with some of my peers in the UO chemistry department, created two clubs. 1) The highly entertaining and often educational Beer and Theory Society, which focused on learning theory from diverse fields whilst drinking beer; and 2) a student organization called the Quantitative Problem Solving and Research Communication Consortium. This organization held student-led meetings giving students from diverse fields such as biology, physics, and chemistry an opportunity to present their work and seek guidance from peers. These meetings were a useful venue for helping students to solve conceptually challenging research problems as well as to practice communication skills in a constructive environment. I was pleased to find a similar organization active upon my arrival at CU Boulder, the Quantitative Think Tank, which I have committed to participate in during my postdoc. 
+I have a strong interest in promoting policies of open science and broader collaboration among scientists. Particularly I believe that broadly interdisciplinary connections strengthen science as a whole. Sharing and discussion of ideas and advice amongst scientists from diverse backgrounds can be the basis for novel approaches. Toward this end I, along with some of my peers in the UO chemistry department, created two clubs. 1) The highly entertaining and often educational [Beer and Theory Society](https://github.com/BeerTheorySociety), which focuses on learning theory from diverse fields whilst drinking beer; and 2) a student organization called the Quantitative Problem Solving and Research Communication Consortium. This organization held student-led meetings giving students from diverse fields such as biology, physics, and chemistry an opportunity to present their work and seek guidance from peers. These meetings were a useful venue for helping students to solve conceptually challenging research problems as well as to practice communication skills in a constructive environment. I was pleased to find a similar organization active upon my arrival at CU Boulder, the Quantitative Think Tank, which I have committed to participate in during my postdoc. 
 
 ### Contact me
 
