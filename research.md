@@ -18,6 +18,7 @@ My PhD research in the Harms group at University of Oregon was centered around u
 
 
 ### The molecular mechanisms of flower color evolution
+![an image alt text]({{ site.baseurl }}/images/iochroma.jpg "TOC figure") 
 
 My work in the Smith lab is focused on understanding the mechanisms that underly evolutionary transitions in flower color. Flower color plays an essential role in the biology and ecology of angiosperms. Evolution of novel flower colors is often associated with adaptation to new environments or pollinators. The pathways underlying this polygenic phenotype are relatively well characterized, making it an excellent system to probe molecular mechanisms and address broader evolutionary questions. How are evolutionary trajectories in polygenic phenotypes constrained? What are the relative contributions of regulatory and functional changes? How do phenomena such as epistasis and pleiotropy affect the predictability of evolution? By reconstructing historical evolutionary transitions between flower colors in the genus *Iochroma* and determining the genetic and biochemical bases of these changes, we will gain important insights into how pathway architecture shapes the evolution of new phenotypes. 
 
