@@ -24,22 +24,25 @@ After graduating from Montana State, I moved back to my home state and enrolled 
 
 ### Outreach and mentorship activities
 
-Growing up I had several opportunities to interact with professional scientists and learn about 
-the scientific process in an educational environment. Those experiences shaped my view of science 
-and inspired me to pursue a scientific career. I have engaged in outreach activities periodically 
-since the beginning of my undergraduate education. I have a strong interest in continuing my involvement 
-with outreach to the general public, because I believe that science is made stronger when the public 
-is engaged. 
+Growing up, I participated many years in a row in the [Inventerprise](http://inventerprise.bendresearch.com/) contest hosted by Bend Research, Inc, which won me the opportunity to visit the research campus and interact with professional scientists. It was an invaluable chance to learn about the scientific process in an educational environment. Those experiences shaped my view of science and inspired me to pursue a scientific career. In an effort to inspire a love of science in others, I
+have engaged in outreach activities periodically since the beginning of my undergraduate education. 
+I was the secretary, and later the vice president, of the [Undergraduate Chemistry Society](http://www.chemistry.montana.edu/undergraduate/society.html) at Montana State. In graduate school I 
+participated in the [Mad Duck Science Friday](https://sciencefriday.uoregon.edu/) series and several 
+other outreach events in Eugene. I have a strong interest in continuing my involvement 
+with outreach to the general public throughout my career. I believe that science is made stronger when the public 
+is engaged that it is incredibly important to give young people in particular the chance to participate in 
+scientific activities. 
 
 I have been fortunate enough to have great mentors throughout all stages of my education. They have helped
 me to develop important skills and given me opportunities for learning that I otherwise would not have had. 
 I have done by best to pass along my experiences by mentoring others, including several summer undergraduate 
-students. These experiences have been a valuable learning opportunity for me as well and helped me to further 
-appreciate the importance of good mentorship. 
+students. One of my proudest moments as a mentor was seeing my long time undergraduate mentee defend her honors
+thesis with highest honors. These experiences have been a valuable learning opportunity for me as well and helped me to further appreciate the importance of good mentorship. As my career progresses, I seek to improve my mentoring skills 
+and incorporate these into my work. 
 
 ### Interdisciplinary science
 
-I have a strong interest in promoting policies of open science and broader collaboration among scientists. Particularly I believe that broadly interdisciplinary connections strengthen science as a whole. Sharing and discussion of ideas and advice amongst scientists from diverse backgrounds can be the basis for novel approaches. Toward this end I, along with some of my peers in the UO chemistry department, created two clubs. 1) The highly entertaining and often educational [Beer and Theory Society](https://github.com/BeerTheorySociety), which focuses on learning theory from diverse fields whilst drinking beer; and 2) a student organization called the Quantitative Problem Solving and Research Communication Consortium. This organization held student-led meetings giving students from diverse fields such as biology, physics, and chemistry an opportunity to present their work and seek guidance from peers. These meetings were a useful venue for helping students to solve conceptually challenging research problems as well as to practice communication skills in a constructive environment. I was pleased to find a similar organization active upon my arrival at CU Boulder, the Quantitative Think Tank, which I have committed to participate in during my postdoc. 
+I have a strong interest in promoting policies of open science and broader collaboration among scientists. Particularly I believe that interdisciplinary connections strengthen science as a whole. I have found that outside perspectives are often  incredibly invaluable. Sharing and discussion of ideas and advice amongst scientists from diverse backgrounds can be the basis for novel approaches. Toward this end I, along with some of my peers in the UO chemistry department, created two clubs. 1) The highly entertaining and often educational [Beer and Theory Society](https://github.com/BeerTheorySociety), which focuses on learning theory from diverse fields whilst drinking beer; and 2) a student organization called the Quantitative Problem Solving and Research Communication Consortium. This organization held student-led meetings giving students from diverse fields such as biology, physics, and chemistry an opportunity to present their work and seek guidance from peers. These meetings were a useful venue for helping students to solve conceptually challenging research problems as well as to practice communication skills in a constructive environment. I was pleased to find a similar organization active upon my arrival at CU Boulder, the Quantitative Think Tank, which I have committed to participate in during my postdoc. Moving forward, I intend to continue seeking interdisciplinary collaborations and bringing together scientists from diverse backgrounds.  
 
 ### Contact me
 
