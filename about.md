@@ -37,8 +37,7 @@ I have been fortunate enough to have great mentors throughout all stages of my e
 me to develop important skills and given me opportunities for learning that I otherwise would not have had. 
 I have done by best to pass along my experiences by mentoring others, including several summer undergraduate 
 students. One of my proudest moments as a mentor was seeing my long time undergraduate mentee defend her honors
-thesis with highest honors. These experiences have been a valuable learning opportunity for me as well and helped me to further appreciate the importance of good mentorship. As my career progresses, I seek to improve my mentoring skills 
-and incorporate these into my work. 
+thesis with highest honors. These experiences have been a valuable learning opportunity for me as well and helped me to further appreciate the importance of good mentorship. As my career progresses, I seek to continue improving my mentoring skills and incorporate these into my work. 
 
 ### Interdisciplinary science
 
