@@ -32,7 +32,7 @@ On this page are a few of my favorite photos that I have taken.
 #### Gray wolf at the [McCleery Buffalo Wolf Foundation](http://mccleerybuffalowolffoundation.org/)
 ![an image alt text]({{ site.baseurl }}/images/wolf.jpg "Gray wolf")
 
-#### Cummins Creek Wildernerss, Oregon coast
+#### Cummins Creek Wilderness, Oregon coast
 ![an image alt text]({{ site.baseurl }}/images/cummins-creek.jpg "Cummins")
 
 If you'd like to see more of my work please visit my Flickr page using the link below!
