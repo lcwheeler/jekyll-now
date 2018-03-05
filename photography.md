@@ -18,7 +18,7 @@ On this page are a few of my favorite photos that I have taken.
 ![an image alt text]({{ site.baseurl }}/images/mountain-goat.jpg "Mountain Goat")
 
 #### Green sea turtle (Honu), Oahu
-![an image alt text]({{ site.baseurl }}/images/honu-reduced.jpg "Honu")
+![an image alt text]({{ site.baseurl }}/images/honu-reduced.JPG "Honu")
 
 #### Panamint speckled rattlesnake in Death Valley National Park
 ![an image alt text]({{ site.baseurl }}/images/panamint-speckled.jpg "Panamint Speckled Rattlesnake")
