@@ -20,14 +20,14 @@ On this page are a few of my favorite photos that I have taken.
 #### Green sea turtle (Honu), Oahu
 ![an image alt text]({{ site.baseurl }}/images/honu-reduced.JPG "Honu")
 
+#### Desert tortoise in the Mojave Preserve
+![an image alt text]({{ site.baseurl }}/images/desert-tortoise.jpg "Desert Tortoise")
+
 #### Panamint speckled rattlesnake in Death Valley National Park
 ![an image alt text]({{ site.baseurl }}/images/panamint-speckled.jpg "Panamint Speckled Rattlesnake")
 
 #### Prairie falcon in Northern Wyoming
 ![an image alt text]({{ site.baseurl }}/images/falcon.jpg "Falcon")
-
-#### Desert tortoise in the Mojave Preserve
-![an image alt text]({{ site.baseurl }}/images/desert-tortoise.jpg "Desert Tortoise")
 
 #### Gray wolf at the [McCleery Buffalo Wolf Foundation](http://mccleerybuffalowolffoundation.org/)
 ![an image alt text]({{ site.baseurl }}/images/wolf.jpg "Gray wolf")
