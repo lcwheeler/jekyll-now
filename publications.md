@@ -3,8 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-
-(My publications can also be found at my [Google Scholar page](https://scholar.google.com/citations?user=IEcP51wAAAAJ&hl=en))
+Here is a list of my publications, which can also be found on my [Google Scholar page](https://scholar.google.com/citations?user=IEcP51wAAAAJ&hl=en)
 
 #### 2017
 
