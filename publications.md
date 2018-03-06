@@ -6,7 +6,7 @@ permalink: /publications/
 Here is a list of my publications, which can also be found on my [Google Scholar page](https://scholar.google.com/citations?user=IEcP51wAAAAJ&hl=en).
 
 #### 2017
-<hr>
+border-bottom: 1px solid $lightGray;
 
 Hiranmayi Duvvuri, **Wheeler LC**, Harms MJ (2017). Pytc: a python package for the analysis of Isothermal Titration Calorimetry experiments. [bioRxiv](https://www.biorxiv.org/content/early/2017/12/15/234682), 234682
 
@@ -17,7 +17,7 @@ Hiranmayi Duvvuri, **Wheeler LC**, Harms MJ (2017). Pytc: a python package for t
 **Wheeler LC**, Harms MJ (2017). S100A5 binds Ca2+ and Cu2+ independently. [BMC Biophysics](https://bmcbiophys.biomedcentral.com/articles/10.1186/s13628-017-0040-y); doi: https://doi.org/10.1186/s13628-017-0040-y 
 
 #### 2016
-<hr>
+border-bottom: 1px solid $lightGray;
 
 **Wheeler LC**, Donor MT, Prell JS, Harms MJ (2016). Multiple Evolutionary 
 Origins of Ubiquitous Cu 2+ and Zn 2+ Binding in the S100 protein Family. 
