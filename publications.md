@@ -6,6 +6,8 @@ permalink: /publications/
 Here is a list of my publications, which can also be found on my [Google Scholar page](https://scholar.google.com/citations?user=IEcP51wAAAAJ&hl=en).
 
 #### 2017
+<br>
+<hr>
 
 Hiranmayi Duvvuri, **Wheeler LC**, Harms MJ (2017). Pytc: a python package for the analysis of Isothermal Titration Calorimetry experiments. [bioRxiv](https://www.biorxiv.org/content/early/2017/12/15/234682), 234682
 
