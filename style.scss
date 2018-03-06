@@ -110,15 +110,6 @@ img {
   max-width: 100%;
 }
 
-hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid $darkGray;
-    margin: 1em 0;
-    padding: 0; 
-}
-
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -165,7 +156,7 @@ hr {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $darkGray;
+  border-bottom: 2px solid $lightGray;
 
   @include mobile {
     text-align: center;
