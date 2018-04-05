@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 Here is a list of my publications, which can also be found on my [Google Scholar page](https://scholar.google.com/citations?user=IEcP51wAAAAJ&hl=en).
 
+## Peer-reviewed papers and pre-prints
+
 #### 2017
 <hr>
 
@@ -27,3 +29,7 @@ Origins of Ubiquitous Cu 2+ and Zn 2+ Binding in the S100 protein Family.
 **Wheeler LC**, An-Lim S, Marqusee S, Harms MJ (2016). The thermostability 
 and specificity of ancient proteins. [COSB](http://www.sciencedirect.com/science/article/pii/S0959440X16300501)
  (LCW and SAL contributed equally to the work) 
+
+## Doctoral dissertation
+
+**Wheeler LC** (2017). Evolution of Metal and Peptide Binding in the S100 Protein Family. (link)[https://search.proquest.com/docview/2015148136?pq-origsite=gscholar]
