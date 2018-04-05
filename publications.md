@@ -34,4 +34,4 @@ and specificity of ancient proteins. [COSB](http://www.sciencedirect.com/science
 ## Doctoral dissertation
 <hr><hr>
 
-**Wheeler LC** (2017). Evolution of Metal and Peptide Binding in the S100 Protein Family. [link](https://search.proquest.com/docview/2015148136?pq-origsite=gscholar)
+**Wheeler LC** (2017). Evolution of Metal and Peptide Binding in the S100 Protein Family. [ProQuest](https://search.proquest.com/docview/2015148136?pq-origsite=gscholar), [GitHub](https://github.com/lcwheeler/dissertation).
