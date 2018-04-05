@@ -6,6 +6,7 @@ permalink: /publications/
 Here is a list of my publications, which can also be found on my [Google Scholar page](https://scholar.google.com/citations?user=IEcP51wAAAAJ&hl=en).
 
 ## Peer-reviewed papers and pre-prints
+<hr><hr>
 
 #### 2017
 <hr>
@@ -31,5 +32,6 @@ and specificity of ancient proteins. [COSB](http://www.sciencedirect.com/science
  (LCW and SAL contributed equally to the work) 
 
 ## Doctoral dissertation
+<hr><hr>
 
 **Wheeler LC** (2017). Evolution of Metal and Peptide Binding in the S100 Protein Family. (link)[https://search.proquest.com/docview/2015148136?pq-origsite=gscholar]
