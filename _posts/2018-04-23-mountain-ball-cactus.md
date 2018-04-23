@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Observing pollination of Mountain ball cactus (*Pediocactus simpsonii*)
+title: Observing pollination of Mountain ball cactus *Pediocactus simpsonii*
 ---
 
 ![an image alt text]({{ site.baseurl }}/images/simpsonii.JPG "Cactus")
