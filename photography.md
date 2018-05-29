@@ -23,7 +23,7 @@ On this page are a few of my favorite photos that I have taken.
 #### Desert tortoise in the Mojave Preserve
 ![an image alt text]({{ site.baseurl }}/images/desert-tortoise.jpg "Desert Tortoise")
 
-#### Panamint speckled rattlesnake in Death Valley National Park
+#### Sidewinder in Death Valley National Park
 ![an image alt text]({{ site.baseurl }}/images/panamint-speckled.jpg "Panamint Speckled Rattlesnake")
 
 #### Prairie falcon in Northern Wyoming
