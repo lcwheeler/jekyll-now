@@ -4,6 +4,7 @@ title: Photography
 permalink: /photography/
 ---
 I am an enthusiastic amateur photographer. Mainly I focus on Nature and wildlife photography.
+I contribute to [iNaturalist](https://www.inaturalist.org/observations?user_id=lukewheeler) as much as possible. 
 On this page are a few of my favorite photos that I have taken. 
 
 &copy; All rights reserved
@@ -23,8 +24,8 @@ On this page are a few of my favorite photos that I have taken.
 #### Desert tortoise in the Mojave Preserve
 ![an image alt text]({{ site.baseurl }}/images/desert-tortoise.jpg "Desert Tortoise")
 
-#### Panamint speckled rattlesnake in Death Valley National Park
-![an image alt text]({{ site.baseurl }}/images/panamint-speckled.jpg "Panamint Speckled Rattlesnake")
+#### Gopher snake at Chattaqua park, CO
+![an image alt text]({{ site.baseurl }}/images/gohper-snake.jpg "Gopher Snake")
 
 #### Prairie falcon in Northern Wyoming
 ![an image alt text]({{ site.baseurl }}/images/falcon.jpg "Falcon")
