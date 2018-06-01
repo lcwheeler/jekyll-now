@@ -9,7 +9,7 @@ On this page are a few of my favorite photos that I have taken.
 
 &copy; All rights reserved
 
-#### Mourning dove in Las Cruces, New Mexico
+#### White-winged dove in Las Cruces, New Mexico
 ![an image alt text]({{ site.baseurl }}/images/dove.jpg "Dove")
 
 #### Pronghorn antelope in Northern Wyoming
