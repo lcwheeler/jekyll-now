@@ -28,7 +28,7 @@ Growing up, I participated many years in a row in the [Inventerprise](http://inv
 have engaged in outreach activities periodically since the beginning of my undergraduate education. 
 I was the secretary, and later the vice president, of the [Undergraduate Chemistry Society](http://www.chemistry.montana.edu/undergraduate/society.html) at Montana State. In graduate school I 
 participated in the [Mad Duck Science Friday](https://sciencefriday.uoregon.edu/) series and several 
-other outreach events in Eugene. I have a strong interest in continuing my involvement 
+other outreach events in Eugene. Most recently I put together a Chemistry teaching lab for the [CU Upward Bound Program](https://www.colorado.edu/cuub/). I have a strong interest in continuing my involvement 
 with outreach to the general public throughout my career. I believe that science is made stronger when the public 
 is engaged that it is incredibly important to give young people in particular the chance to participate in 
 scientific activities. 
