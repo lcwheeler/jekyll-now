@@ -30,7 +30,7 @@ On this page are a few of my favorite photos that I have taken.
 #### Prairie falcon in Northern Wyoming
 ![an image alt text]({{ site.baseurl }}/images/falcon.jpg "Falcon")
 
-#### Gray wolf at the [McCleery Buffalo Wolf Foundation](http://mccleerybuffalowolffoundation.org/)
+#### Gray wolf at the McCleery Buffalo Wolf Foundation
 ![an image alt text]({{ site.baseurl }}/images/wolf.jpg "Gray wolf")
 
 #### Cummins Creek Wilderness, Oregon coast
