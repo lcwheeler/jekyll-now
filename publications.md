@@ -8,7 +8,7 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 ## Peer-reviewed papers and pre-prints
 <hr><hr>
 
-#### 2018
+#### 2019
 <hr>
 
 **Wheeler LC**, Stacey, SD (2019). Computational modeling of anthocyanin pathway evolution. [bioRxiv](https://www.biorxiv.org/content/early/2019/01/03/511089); doi: https://doi.org/10.1101/511089. 
