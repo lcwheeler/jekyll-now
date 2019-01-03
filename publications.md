@@ -11,6 +11,12 @@ Here is a list of my publications, which can also be found on my [Google Scholar
 #### 2018
 <hr>
 
+**Wheeler LC**, Stacey, SD (2019). Computational modeling of anthocyanin pathway evolution. [bioRxiv](https://www.biorxiv.org/content/early/2019/01/03/511089); doi: https://doi.org/10.1101/511089. 
+
+
+#### 2018
+<hr>
+
 Hiranmayi Duvvuri, **Wheeler LC**, Harms MJ (2018). pytc: open source python software for global analyses of isothermal titration calorimetry data. [Biochemistry](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.7b01264); doi: 10.1021/acs.biochem.7b01264. (A version of this article is also available at [bioRxiv](https://www.biorxiv.org/content/early/2017/12/15/234682))
 
 #### 2017
