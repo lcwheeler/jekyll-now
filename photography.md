@@ -36,6 +36,6 @@ On this page are a few of my favorite photos that I have taken.
 #### Cummins Creek Wilderness, Oregon coast
 ![an image alt text]({{ site.baseurl }}/images/cummins-creek.jpg "Cummins")
 
-#### Vicuña and Andean flamingo, Salar del Hombre Muerto, Catamarc, Argentina
+#### Vicuña and Andean flamingo, Salar del Hombre Muerto, Catamarca, Argentina
 ![an image alt text]({{ site.baseurl }}/images/vicuna.JPG "Vicuna")
 
