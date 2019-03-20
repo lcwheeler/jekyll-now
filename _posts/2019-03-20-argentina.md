@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Field adventures in Argentina: the search for Fabianas
+title: The search for Fabianas, field adventures in Argentina
 ---
 
 ![an image alt text]({{ site.baseurl }}/images/laguna-preserve.jpg)
