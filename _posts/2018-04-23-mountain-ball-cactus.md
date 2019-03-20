@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Observing visitors to Mountain ball cactus (*Pediocactus simpsonii*)
+title: Observing visitors to mountain ball cactus
 ---
 
 ![an image alt text]({{ site.baseurl }}/images/simpsonii.JPG "Cactus")
