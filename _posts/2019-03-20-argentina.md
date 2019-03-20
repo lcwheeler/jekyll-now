@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The search for Fabianas, field adventures in Argentina
+title: The quest for Fabianas; field adventures in Argentina
 ---
 
 ![an image alt text]({{ site.baseurl }}/images/laguna-preserve.jpg)
@@ -131,7 +131,7 @@ See below for some photos of the trip:
 
 #### A desert canyon in Western Tucumán province
 
-![an image alt text]({{ site.baseurl }}/images/Tucumán-desert.jpg)
+![an image alt text]({{ site.baseurl }}/images/tucuman-desert.jpg)
 
 #### Vicuñas on the Salar del Hombre Muerto, Antofagasta de la Sierra, Catamarca
 
