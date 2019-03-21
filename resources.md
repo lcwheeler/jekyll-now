@@ -25,7 +25,7 @@ Orbweaver is a pet project that is still a work in progress. It is a Python libr
 
 #### Ambigauss
 
-Ambigauss is another pet project and another work in progress, developed by the members of the [Beer and Theory Society](https://github.com/BeerTheorySociety.) It's a Python library designed specifically for analyzing spectral datasets. It includes tools for finding peaks, fitting various spectral shapes to data, and simulating data. 
+Ambigauss is another pet project and another work in progress, developed by the members of the [Beer and Theory Society](https://github.com/BeerTheorySociety). It's a Python library designed specifically for analyzing spectral datasets. It includes tools for finding peaks, fitting various spectral shapes to data, and simulating data. 
 
 *To install or contribute to ambigauss, go to the [github repo](https://github.com/BeerTheorySociety/ambigauss).*
 
