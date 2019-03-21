@@ -13,7 +13,7 @@ Our journey (running from February 5th through February 16th) took us from the s
 
 See below for some photos of the trip: 
 
-#### An apacheta (shrine to the Paichamama) on a mountain pass in Catamarca
+#### An apacheta (shrine to Pachamama) on a mountain pass in Catamarca
 
 ![an image alt text]({{ site.baseurl }}/images/apacheta.JPG)
 
