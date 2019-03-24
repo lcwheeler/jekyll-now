@@ -57,7 +57,7 @@ See below for some photos of the trip:
 
 ![an image alt text]({{ site.baseurl }}/images/Fpunensis.JPG)
 
-#### A giant grasshopper in Belén department, Catamarca
+#### Violet-winged grasshopper (*Topidacris collaris*) Belén department, Catamarca
 
 ![an image alt text]({{ site.baseurl }}/images/giant-grasshopper.JPG)
 
